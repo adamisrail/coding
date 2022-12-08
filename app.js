@@ -17,4 +17,4 @@ async function callfunc(){
     console.log(result)
 }asd
 
-callfunc();asd
+callfunc();asdasda
