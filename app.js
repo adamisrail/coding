@@ -15,7 +15,6 @@ function promfunc(){
 async function callfunc(){
     const result = await promfunc();
     console.log(result)
-}
-
+}asd
 
 callfunc();
